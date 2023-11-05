@@ -16,4 +16,4 @@ const GlobalStyles = createGlobalStyle(globalStyles, `
    }
 `)
 
-export default GlobalStyles 
+export default GlobalStyles
