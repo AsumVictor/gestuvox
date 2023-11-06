@@ -73,7 +73,7 @@ export default ({
       <NavLink href="/#" tw="lg:ml-12!">
         Meet our team
       </NavLink>
-      <PrimaryLink css={roundedHeaderButton && tw`rounded-full`} href="/#">
+      <PrimaryLink css={roundedHeaderButton && tw`rounded-full`} href="https://p.hbtl.co/RG868C">
       Sponser Us
       </PrimaryLink>
     </NavLinks>,
