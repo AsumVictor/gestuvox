@@ -16,7 +16,7 @@ import { ReactComponent as SvgDecoratorBlob2 } from "../../images/dot-pattern.sv
 import DesignIllustration from "../../images/Mask for the deaf-amico.png";
 
 const Container = tw.div`relative`;
-const TwoColumn = tw.div`flex flex-col lg:flex-row md:items-center max-w-screen-xl mx-auto py-20 md:py-24`;
+const TwoColumn = tw.div`flex flex-col lg:flex-row md:items-center max-w-screen-xl mx-auto py-10 md:py-24`;
 const LeftColumn = tw.div`relative lg:w-6/12 lg:pr-12 flex-shrink-0 text-center lg:text-left`;
 const RightColumn = tw.div`relative mt-12 lg:mt-0 flex flex-col justify-center`;
 
@@ -64,10 +64,10 @@ const LineSpan = tw.span`text-primary-600`
 
 export default ({
   description = "Our project goes beyond mere words; it's about fostering connections, sharing stories, and celebrating the diversity of human expression. With GestuVox, we're breaking down the barriers of silence and sound to bridge two distinct languages: sign language and spoken language.",
-  primaryButtonText = "Try Now",
+  primaryButtonText = "Learn More",
   primaryButtonUrl = "#",
-  watchVideoButtonText = "Watch Video",
-  watchVideoYoutubeUrl = "https://www.youtube.com/embed/_GuOjXYl5ew",
+  watchVideoButtonText = "How it Works",
+  watchVideoYoutubeUrl = "",
   imageSrc = DesignIllustration,
   imageCss = null,
   imageDecoratorBlob = false,
@@ -114,9 +114,7 @@ export default ({
           <CloseModalButton onClick={toggleModal}>
             <CloseIcon tw="w-6 h-6" />
           </CloseModalButton>
-          <div className="content">
-            <ResponsiveVideoEmbed url={watchVideoYoutubeUrl} tw="w-full" />
-          </div>
+          {/* Add Video here */}
         </StyledModal>
       </Container>
     </>
