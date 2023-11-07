@@ -50,7 +50,7 @@ const StyledModal = styled(ReactModalAdapter)`
     ${tw`fixed inset-0 z-50`}
   }
   &.mainHeroModal__content {
-    ${tw`xl:mx-auto m-4 sm:m-16 max-w-screen-xl absolute inset-0 flex justify-center items-center rounded-lg bg-gray-200 outline-none`}
+    ${tw`xl:mx-auto m-4 sm:m-16 max-w-screen-xl absolute inset-0 flex justify-center items-center rounded-lg bg-primary-200 outline-none`}
   }
   .content {
     ${tw`w-full lg:p-16`}
@@ -66,7 +66,7 @@ export default ({
   description = "Our project goes beyond mere words; it's about fostering connections, sharing stories, and celebrating the diversity of human expression. With GestuVox, we're breaking down the barriers of silence and sound to bridge two distinct languages: sign language and spoken language.",
   primaryButtonText = "Learn More",
   primaryButtonUrl = "#",
-  watchVideoButtonText = "How it Works",
+  watchVideoButtonText = "How it Started",
   watchVideoYoutubeUrl = "",
   imageSrc = DesignIllustration,
   imageCss = null,
