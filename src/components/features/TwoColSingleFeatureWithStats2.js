@@ -31,7 +31,7 @@ const Subheading = tw(SubheadingBase)`text-center md:text-left`;
 const Heading = tw(
   SectionHeading
 )`mt-4 font-black text-left text-3xl sm:text-4xl lg:text-5xl text-center md:text-left leading-tight`;
-const Description = tw.p`mt-4 text-center md:text-left text-sm md:text-base lg:text-lg font-medium leading-relaxed text-secondary-100`;
+export const Description = tw.p`mt-4 text-center md:text-left text-sm md:text-base lg:text-lg font-medium leading-relaxed text-secondary-100`;
 
 const Statistics = tw.div`flex flex-col items-center sm:block text-center md:text-left mt-4`;
 const Statistic = tw.div`text-left sm:inline-block sm:mr-12 last:mr-0 mt-4`;
@@ -66,8 +66,7 @@ export default ({
   statistics = null,
   textOnLeft = false,
 }) => {
-  // The textOnLeft boolean prop can be used to display either the text on left or right side of the image.
-  //Change the statistics variable as you like, add or delete objects
+ 
   const defaultStatistics = [
     {
       key: "Devices",
