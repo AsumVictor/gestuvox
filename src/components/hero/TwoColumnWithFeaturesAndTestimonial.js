@@ -78,9 +78,12 @@ export default ({
             <TextColumn>
               <Heading>{heading}</Heading>
               <Description>{description.slice(0, 500) + '...'}</Description>
+              <a href={primaryButtonUrl} target="_blank">
+
               <PrimaryButton>
                 CONNECT
               </PrimaryButton>
+              </a>
             </TextColumn>
             <ImageColumn>
               <ImageContainer>
