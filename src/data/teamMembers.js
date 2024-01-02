@@ -5,6 +5,20 @@ import Morro from "../images/Profile/morro.jpeg";
 
 export const TeamMembers = [
   {
+    image: Morro,
+    role: "linguistic researcher",
+    bio: `
+    I have a strong motivation to overcome language barriers and improve communication in healthcare. That's why I want to study computer science as my major and linguistics as my minor. My objective is to acquire a profound comprehension of artificial intelligence technologies, algorithms, and language models through extensive study and courses focused on computational linguistics and Natural Language Processing.
+
+My ultimate goal is to use this knowledge to enhance and construct adaptive technology that can aid in communication during the provision of healthcare services to those who are nonverbal, have hearing impairments, or suffer from language difficulties caused by brain disorders.
+    `,
+    name: "Suleyman Morro",
+    quote: `“The world is a beautiful mosaic of colors, cultures, and perspectives. Each piece is unique and valuable, and together we create a masterpiece. Let us appreciate and embrace the diversity of our world, and not let fear or ignorance divide us." Is this quote okay?`,
+    title: "Project Manager",
+    link: 'https://www.linkedin.com/in/morro-suleyman-067462263/'
+    
+  },
+  {
     image: AsumVictor,
     role: "Programming Lead",
     bio: `I am interested in pursuing computer science and Psychology, where I can combine my computational and quantitative skills with my love for health psychology. I am interested in developing artificial intelligence (AI) models to analyze large datasets about mental health. These datasets can include electronic health records (EHRs) and social media data. By applying data analysis techniques and machine learning algorithms, these models can identify patterns and insights that can help us better understand risk factors for mental health issues, predict potential problems, and provide personalized interventions.
