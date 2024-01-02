@@ -16,7 +16,7 @@ My ultimate goal is to use this knowledge to enhance and construct adaptive tech
     `,
     name: "Fibo ",
     quote: `“The world is a beautiful mosaic of colors, cultures, and perspectives. Each piece is unique and valuable, and together we create a masterpiece. Let us appreciate and embrace the diversity of our world, and not let fear or ignorance divide us." Is this quote okay?`,
-    title: "Project Manager",
+    title: "Project Manager & linguistic researcher",
     link: 'https://www.linkedin.com/in/morro-suleyman-067462263/'
     
   },
