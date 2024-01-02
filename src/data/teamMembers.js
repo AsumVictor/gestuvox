@@ -2,10 +2,12 @@ import AsumVictor from "../images/Profile/105683075.jpeg";
 import Prince from "../images/Profile/prince.jpg";
 // EDENIC
 import Morro from "../images/Profile/morro.jpeg";
+import Fibo from "../images/Profile/fibo.jpeg";
+
 
 export const TeamMembers = [
   {
-    image: Morro,
+    image: Fibo,
     role: "linguistic researcher",
     bio: `
     I have a strong motivation to overcome language barriers and improve communication in healthcare. That's why I want to study computer science as my major and linguistics as my minor. My objective is to acquire a profound comprehension of artificial intelligence technologies, algorithms, and language models through extensive study and courses focused on computational linguistics and Natural Language Processing.
