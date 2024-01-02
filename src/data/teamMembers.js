@@ -14,7 +14,7 @@ export const TeamMembers = [
 
 My ultimate goal is to use this knowledge to enhance and construct adaptive technology that can aid in communication during the provision of healthcare services to those who are nonverbal, have hearing impairments, or suffer from language difficulties caused by brain disorders.
     `,
-    name: "Suleyman Morro",
+    name: "Fibo ",
     quote: `“The world is a beautiful mosaic of colors, cultures, and perspectives. Each piece is unique and valuable, and together we create a masterpiece. Let us appreciate and embrace the diversity of our world, and not let fear or ignorance divide us." Is this quote okay?`,
     title: "Project Manager",
     link: 'https://www.linkedin.com/in/morro-suleyman-067462263/'
