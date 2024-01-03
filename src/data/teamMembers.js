@@ -10,12 +10,11 @@ export const TeamMembers = [
     image: Fibo,
     role: "Linguistic researcher",
     bio: `
-    I have a strong motivation to overcome language barriers and improve communication in healthcare. That's why I want to study computer science as my major and linguistics as my minor. My objective is to acquire a profound comprehension of artificial intelligence technologies, algorithms, and language models through extensive study and courses focused on computational linguistics and Natural Language Processing.
-
-My ultimate goal is to use this knowledge to enhance and construct adaptive technology that can aid in communication during the provision of healthcare services to those who are nonverbal, have hearing impairments, or suffer from language difficulties caused by brain disorders.
+   I am determined to break down language barriers and enhance communication in healthcare delivery to people who have sensory and cognitive impairments. My goal is to gain a comprehensive understanding of AI technologies, algorithms, and language models through intensive studies and courses in computational linguistics and Natural Language Processing.
+By applying my knowledge in computational linguistics, I aspire to create innovative and intelligent technologies that can revolutionize healthcare services for those who are nonverbal, have hearing impairments, or suffer from language difficulties caused by brain disorders.
     `,
-    name: "Fibo ",
-    quote: `“The world is a beautiful mosaic of colors, cultures, and perspectives. Each piece is unique and valuable, and together we create a masterpiece. Let us appreciate and embrace the diversity of our world, and not let fear or ignorance divide us." Is this quote okay?`,
+    name: "Asamoah Baffour Isaac ",
+    quote: `“The world is a beautiful mosaic of colors, cultures, and perspectives. Each piece is unique and valuable, and together we create a masterpiece. Let us appreciate and embrace the diversity of our world, and not let fear or ignorance divide us."`,
     title: "Project Manager & linguistic researcher",
     link: 'https://www.linkedin.com/in/morro-suleyman-067462263/'
     
