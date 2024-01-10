@@ -22,10 +22,8 @@ By applying my knowledge in computational linguistics, I aspire to create innova
   {
     image: AsumVictor,
     role: "Programming Lead",
-    bio: `I am interested in pursuing computer science and Psychology, where I can combine my computational and quantitative skills with my love for health psychology. I am interested in developing artificial intelligence (AI) models to analyze large datasets about mental health. These datasets can include electronic health records (EHRs) and social media data. By applying data analysis techniques and machine learning algorithms, these models can identify patterns and insights that can help us better understand risk factors for mental health issues, predict potential problems, and provide personalized interventions.
-
-        I am also interested in contributing to brain-computer interface (BCI) projects by developing convolutional neural networks (CNNs) with labeled data so that they can learn to map brain signal features to specific classes or actions. This would allow my AI to classify brain signals and determine the intended user command or action for psychological treatment purposes.
-        In addition, I am also committed to establishing resilient systems and protocols that safeguard sensitive information. I believe that it is important to foster trust in digital mental health solutions and ensure compliance with stringent privacy regulations.`,
+    bio: ` I am interested in pursuing computer science and Robotics, where I can combine my computational, especially Artificial Intelligence and engineering skills to solve societal problems. I am interested in developing artificial intelligence (AI) models to help translate Sign Languages to voice synthesis or text to bridge the communication gap between the hearing and the deaf community. I'm also curious to research computational agriculture where I will be making smart autonomous robots and precision agriculture to handle tedious and complex agricultural activities in Africa.
+Again, I wish to be on TEDx as a public speaker.`,
     name: "Asum Victor",
     quote: `My greatest accomplishment isn't behind me—it's what lies ahead. Why would I halt my efforts when there's always more to achieve?`,
     title: "Fullstack Developer",
